@@ -1,0 +1,248 @@
+{
+    "copyright": "Copyright 2025 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+    "people": [
+        {
+            "id": 575929,
+            "fullName": "Willson Contreras",
+            "link": "/api/v1/people/575929",
+            "firstName": "Willson",
+            "lastName": "Contreras",
+            "primaryNumber": "40",
+            "birthDate": "1992-05-13",
+            "currentAge": 33,
+            "birthCity": "Puerto Cabello",
+            "birthCountry": "Venezuela",
+            "height": "6' 1\"",
+            "weight": 240,
+            "active": true,
+            "primaryPosition": {
+                "code": "3",
+                "name": "First Base",
+                "type": "Infielder",
+                "abbreviation": "1B"
+            },
+            "useName": "Willson",
+            "useLastName": "Contreras",
+            "middleName": "Eduardo",
+            "boxscoreName": "Contreras, Wn",
+            "nickName": "Venezuela",
+            "gender": "M",
+            "isPlayer": true,
+            "isVerified": false,
+            "stats": [
+                {
+                    "type": {
+                        "displayName": "vsPlayerTotal"
+                    },
+                    "group": {
+                        "displayName": "hitting"
+                    },
+                    "totalSplits": 1,
+                    "exemptions": [],
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 2,
+                                "groundOuts": 1,
+                                "airOuts": 3,
+                                "doubles": 0,
+                                "triples": 0,
+                                "homeRuns": 0,
+                                "strikeOuts": 2,
+                                "baseOnBalls": 1,
+                                "intentionalWalks": 0,
+                                "hits": 0,
+                                "hitByPitch": 0,
+                                "avg": ".000",
+                                "atBats": 6,
+                                "obp": ".143",
+                                "slg": ".000",
+                                "ops": ".143",
+                                "groundIntoDoublePlay": 0,
+                                "groundIntoTriplePlay": 0,
+                                "numberOfPitches": 29,
+                                "plateAppearances": 7,
+                                "totalBases": 0,
+                                "rbi": 0,
+                                "leftOnBase": 3,
+                                "sacBunts": 0,
+                                "sacFlies": 0,
+                                "babip": ".000",
+                                "groundOutsToAirouts": "0.33",
+                                "catchersInterference": 0,
+                                "atBatsPerHomeRun": "-.--"
+                            },
+                            "gameType": "R",
+                            "numTeams": 3,
+                            "pitcher": {
+                                "id": 571510,
+                                "fullName": "Matthew Boyd",
+                                "link": "/api/v1/people/571510",
+                                "firstName": "Matthew",
+                                "lastName": "Boyd"
+                            },
+                            "batter": {
+                                "id": 575929,
+                                "fullName": "Willson Contreras",
+                                "link": "/api/v1/people/575929",
+                                "firstName": "Willson",
+                                "lastName": "Contreras"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "displayName": "vsPlayer"
+                    },
+                    "group": {
+                        "displayName": "hitting"
+                    },
+                    "totalSplits": 2,
+                    "exemptions": [],
+                    "splits": [
+                        {
+                            "season": "2021",
+                            "stat": {
+                                "gamesPlayed": 1,
+                                "groundOuts": 0,
+                                "airOuts": 2,
+                                "doubles": 0,
+                                "triples": 0,
+                                "homeRuns": 0,
+                                "strikeOuts": 1,
+                                "baseOnBalls": 1,
+                                "intentionalWalks": 0,
+                                "hits": 0,
+                                "hitByPitch": 0,
+                                "avg": ".000",
+                                "atBats": 3,
+                                "obp": ".250",
+                                "slg": ".000",
+                                "ops": ".250",
+                                "groundIntoDoublePlay": 0,
+                                "groundIntoTriplePlay": 0,
+                                "numberOfPitches": 12,
+                                "plateAppearances": 4,
+                                "totalBases": 0,
+                                "rbi": 0,
+                                "leftOnBase": 2,
+                                "sacBunts": 0,
+                                "sacFlies": 0,
+                                "babip": ".000",
+                                "groundOutsToAirouts": "0.00",
+                                "catchersInterference": 0,
+                                "atBatsPerHomeRun": "-.--"
+                            },
+                            "team": {
+                                "id": 112,
+                                "name": "Chicago Cubs",
+                                "link": "/api/v1/teams/112"
+                            },
+                            "opponent": {
+                                "id": 116,
+                                "name": "Detroit Tigers",
+                                "link": "/api/v1/teams/116"
+                            },
+                            "gameType": "R",
+                            "numTeams": 1,
+                            "pitcher": {
+                                "id": 571510,
+                                "fullName": "Matthew Boyd",
+                                "link": "/api/v1/people/571510",
+                                "firstName": "Matthew",
+                                "lastName": "Boyd"
+                            },
+                            "batter": {
+                                "id": 575929,
+                                "fullName": "Willson Contreras",
+                                "link": "/api/v1/people/575929",
+                                "firstName": "Willson",
+                                "lastName": "Contreras"
+                            }
+                        },
+                        {
+                            "season": "2023",
+                            "stat": {
+                                "gamesPlayed": 1,
+                                "groundOuts": 1,
+                                "airOuts": 1,
+                                "doubles": 0,
+                                "triples": 0,
+                                "homeRuns": 0,
+                                "strikeOuts": 1,
+                                "baseOnBalls": 0,
+                                "intentionalWalks": 0,
+                                "hits": 0,
+                                "hitByPitch": 0,
+                                "avg": ".000",
+                                "atBats": 3,
+                                "obp": ".000",
+                                "slg": ".000",
+                                "ops": ".000",
+                                "groundIntoDoublePlay": 0,
+                                "groundIntoTriplePlay": 0,
+                                "numberOfPitches": 17,
+                                "plateAppearances": 3,
+                                "totalBases": 0,
+                                "rbi": 0,
+                                "leftOnBase": 1,
+                                "sacBunts": 0,
+                                "sacFlies": 0,
+                                "babip": ".000",
+                                "groundOutsToAirouts": "1.00",
+                                "catchersInterference": 0,
+                                "atBatsPerHomeRun": "-.--"
+                            },
+                            "team": {
+                                "id": 138,
+                                "name": "St. Louis Cardinals",
+                                "link": "/api/v1/teams/138"
+                            },
+                            "opponent": {
+                                "id": 116,
+                                "name": "Detroit Tigers",
+                                "link": "/api/v1/teams/116"
+                            },
+                            "gameType": "R",
+                            "numTeams": 1,
+                            "pitcher": {
+                                "id": 571510,
+                                "fullName": "Matthew Boyd",
+                                "link": "/api/v1/people/571510",
+                                "firstName": "Matthew",
+                                "lastName": "Boyd"
+                            },
+                            "batter": {
+                                "id": 575929,
+                                "fullName": "Willson Contreras",
+                                "link": "/api/v1/people/575929",
+                                "firstName": "Willson",
+                                "lastName": "Contreras"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "mlbDebutDate": "2016-06-17",
+            "batSide": {
+                "code": "R",
+                "description": "Right"
+            },
+            "pitchHand": {
+                "code": "R",
+                "description": "Right"
+            },
+            "nameFirstLast": "Willson Contreras",
+            "nameSlug": "willson-contreras-575929",
+            "firstLastName": "Willson Contreras",
+            "lastFirstName": "Contreras, Willson",
+            "lastInitName": "Contreras, W",
+            "initLastName": "W Contreras",
+            "fullFMLName": "Willson Eduardo Contreras",
+            "fullLFMName": "Contreras, Willson Eduardo",
+            "strikeZoneTop": 3.52,
+            "strikeZoneBottom": 1.65
+        }
+    ]
+}

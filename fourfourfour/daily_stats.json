@@ -1,0 +1,191 @@
+[
+    {
+        "playerName": "Josh Rojas",
+        "playerId": 668942,
+        "team": "Chicago White Sox",
+        "vsPitcher": "Zac Gallen",
+        "careerHRs": 1,
+        "careerAB": 2,
+        "careerAVG": ".500"
+    },
+    {
+        "playerName": "Ceddanne Rafaela",
+        "playerId": 678882,
+        "team": "Boston Red Sox",
+        "vsPitcher": "Yusei Kikuchi",
+        "careerHRs": 1,
+        "careerAB": 4,
+        "careerAVG": ".250"
+    },
+    {
+        "playerName": "Jo Adell",
+        "playerId": 666176,
+        "team": "Los Angeles Angels",
+        "vsPitcher": "Richard Fitts",
+        "careerHRs": 1,
+        "careerAB": 1,
+        "careerAVG": "1.000"
+    },
+    {
+        "playerName": "Mike Trout",
+        "playerId": 545361,
+        "team": "Los Angeles Angels",
+        "vsPitcher": "Richard Fitts",
+        "careerHRs": 1,
+        "careerAB": 1,
+        "careerAVG": "1.000"
+    },
+    {
+        "playerName": "Zach Neto",
+        "playerId": 687263,
+        "team": "Los Angeles Angels",
+        "vsPitcher": "Richard Fitts",
+        "careerHRs": 1,
+        "careerAB": 1,
+        "careerAVG": "1.000"
+    },
+    {
+        "playerName": "Manny Machado",
+        "playerId": 592518,
+        "team": "San Diego Padres",
+        "vsPitcher": "MacKenzie Gore",
+        "careerHRs": 1,
+        "careerAB": 4,
+        "careerAVG": ".500"
+    },
+    {
+        "playerName": "Xander Bogaerts",
+        "playerId": 593428,
+        "team": "San Diego Padres",
+        "vsPitcher": "MacKenzie Gore",
+        "careerHRs": 1,
+        "careerAB": 5,
+        "careerAVG": ".400"
+    },
+    {
+        "playerName": "Gary S\u00e1nchez",
+        "playerId": 596142,
+        "team": "Baltimore Orioles",
+        "vsPitcher": "Jacob deGrom",
+        "careerHRs": 1,
+        "careerAB": 6,
+        "careerAVG": ".333"
+    },
+    {
+        "playerName": "Bo Bichette",
+        "playerId": 666182,
+        "team": "Toronto Blue Jays",
+        "vsPitcher": "Gavin Williams",
+        "careerHRs": 1,
+        "careerAB": 2,
+        "careerAVG": ".500"
+    },
+    {
+        "playerName": "Austin Wells",
+        "playerId": 669224,
+        "team": "New York Yankees",
+        "vsPitcher": "Brady Singer",
+        "careerHRs": 1,
+        "careerAB": 6,
+        "careerAVG": ".333"
+    },
+    {
+        "playerName": "Cody Bellinger",
+        "playerId": 641355,
+        "team": "New York Yankees",
+        "vsPitcher": "Brady Singer",
+        "careerHRs": 2,
+        "careerAB": 4,
+        "careerAVG": ".500"
+    },
+    {
+        "playerName": "Yandy D\u00edaz",
+        "playerId": 650490,
+        "team": "Tampa Bay Rays",
+        "vsPitcher": "Michael Wacha",
+        "careerHRs": 1,
+        "careerAB": 8,
+        "careerAVG": ".375"
+    },
+    {
+        "playerName": "Mitch Garver",
+        "playerId": 641598,
+        "team": "Seattle Mariners",
+        "vsPitcher": "Joe Ryan",
+        "careerHRs": 1,
+        "careerAB": 4,
+        "careerAVG": ".250"
+    },
+    {
+        "playerName": "Matt Wallner",
+        "playerId": 670242,
+        "team": "Minnesota Twins",
+        "vsPitcher": "George Kirby",
+        "careerHRs": 1,
+        "careerAB": 5,
+        "careerAVG": ".600"
+    },
+    {
+        "playerName": "Trevor Larnach",
+        "playerId": 663616,
+        "team": "Minnesota Twins",
+        "vsPitcher": "George Kirby",
+        "careerHRs": 1,
+        "careerAB": 4,
+        "careerAVG": ".250"
+    },
+    {
+        "playerName": "Willi Castro",
+        "playerId": 650489,
+        "team": "Minnesota Twins",
+        "vsPitcher": "George Kirby",
+        "careerHRs": 1,
+        "careerAB": 9,
+        "careerAVG": ".333"
+    },
+    {
+        "playerName": "Michael Busch",
+        "playerId": 683737,
+        "team": "Chicago Cubs",
+        "vsPitcher": "Erick Fedde",
+        "careerHRs": 1,
+        "careerAB": 5,
+        "careerAVG": ".400"
+    },
+    {
+        "playerName": "Jordan Walker",
+        "playerId": 691023,
+        "team": "St. Louis Cardinals",
+        "vsPitcher": "Matthew Boyd",
+        "careerHRs": 1,
+        "careerAB": 1,
+        "careerAVG": "1.000"
+    },
+    {
+        "playerName": "Christian Walker",
+        "playerId": 572233,
+        "team": "Houston Astros",
+        "vsPitcher": "Zack Wheeler",
+        "careerHRs": 1,
+        "careerAB": 6,
+        "careerAVG": ".667"
+    },
+    {
+        "playerName": "Kyle Stowers",
+        "playerId": 669065,
+        "team": "Miami Marlins",
+        "vsPitcher": "Logan Webb",
+        "careerHRs": 1,
+        "careerAB": 3,
+        "careerAVG": ".333"
+    },
+    {
+        "playerName": "Mike Yastrzemski",
+        "playerId": 573262,
+        "team": "San Francisco Giants",
+        "vsPitcher": "Edward Cabrera",
+        "careerHRs": 1,
+        "careerAB": 2,
+        "careerAVG": ".500"
+    }
+]
